@@ -1,0 +1,10 @@
+Pecel Lele;Pecel lele goreng dengan sambal pedas dan lalapan seperti kemangi, kol, dan mentimun.
+Rendang;Rendang daging sapi khas Minang yang dimasak lama dengan santan dan bumbu rempah.
+Sate Ayam;Sate ayam dengan bumbu kacang manis, disajikan dengan lontong dan acar.
+Rawon;Rawon khas Jawa Timur yang menggunakan bumbu kluwek, disajikan dengan daging sapi, tauge, dan sambal.
+Nasi Goreng;Nasi goreng dengan bumbu spesial yang terdiri dari kecap, bawang putih, cabai, dan telur orak-arik.
+Bakso;Bakso sapi dengan kuah kaldu gurih, ditambah pelengkap seperti mie kuning, bihun, tahu, dan daun bawang.
+Capcay;Capcay tumis aneka sayur dengan kuah kental berbumbu bawang putih dan saus tiram.
+Soto Ayam;Soto ayam dengan kuah bening beraroma rempah, dilengkapi ayam suwir, telur rebus, dan sambal.
+Gado-Gado;Gado-gado terdiri dari sayuran rebus, lontong, tahu, dan tempe dengan siraman bumbu kacang.
+Mie Ayam;Mie ayam dengan kuah gurih, potongan ayam berbumbu kecap, sawi hijau, dan taburan bawang goreng.
